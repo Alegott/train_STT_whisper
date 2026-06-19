@@ -1,0 +1,7 @@
+whisper_env/
+dataset_italiano/audio/
+whisper-tiny-italian-custom/
+whisper-tiny-ita-final/
+*.wav
+__pycache__/
+.ipynb_checkpoints/
