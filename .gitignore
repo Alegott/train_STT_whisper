@@ -1,4 +1,4 @@
-whisper_env/
+.venv/
 dataset_italiano/audio/
 whisper-tiny-italian-custom/
 whisper-tiny-ita-final/
