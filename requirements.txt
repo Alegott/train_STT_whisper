@@ -1,0 +1,13 @@
+--index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+bitsandbytes
+transformers
+datasets
+accelerate
+soundfile
+librosa
+evaluate
+jiwer
+tensorboard
